@@ -3,9 +3,7 @@
 [![Code style check](https://github.com/LedgerHQ/app-plugin-kiln/actions/workflows/lint-workflow.yml/badge.svg)](https://github.com/LedgerHQ/app-plugin-kiln/actions/workflows/lint-workflow.yml)
 [![Compilation & tests](https://github.com/LedgerHQ/app-plugin-kiln/actions/workflows/ci-workflow.yml/badge.svg)](https://github.com/LedgerHQ/app-plugin-kiln/actions/workflows/ci-workflow.yml)
 
-# app-plugin-kiln
-
-![Kiln Logo](https://uploads-ssl.webflow.com/625db3caa8abd6c22d5f0ce3/6260572336892a801afd71e3_Kiln_Logo-Transparent-Dark.svg)
+# app-plugin-coinbase
 
 This plug-in is compatible with Nano S / X devices, it enables to interact in a secure way with the Kiln v2 contracts.
 
@@ -14,7 +12,7 @@ This plug-in is compatible with Nano S / X devices, it enables to interact in a 
 Clone the plugin to a new folder.
 
 ```shell
-git clone https://github.com/LedgerHQ/app-plugin-kiln.git
+git clone https://github.com/coinbase/ledger-plugin-coinbase-staking.git
 ```
 
 Then in the same folder clone two more repositories, which is the plugin-tools and app-ethereum.
