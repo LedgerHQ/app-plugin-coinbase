@@ -24,3 +24,4 @@ jobs:
           source: "./"
           extensions: "h,c"
           clangFormatVersion: 12.0.1
+
